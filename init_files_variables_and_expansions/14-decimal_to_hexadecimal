@@ -1,0 +1,6 @@
+vi 14-decimal_to_hexadecimal
+
+#!/bin/bash
+printf "%x\n" "$DECIMAL"
+
+chmod u+x 14-decimal_to_hexadecimal
