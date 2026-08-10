@@ -1,0 +1,6 @@
+#!/bin/bash
+printf "%.2f\n" "$NUM"
+
+chmod u+x 13-print_float
+export NUM=3.14159265359
+./13-print_float
